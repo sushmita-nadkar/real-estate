@@ -46,7 +46,7 @@ const Hero = () => {
                     <div className="hero-title">
                         <div className="orange-circle"></div>
                         <h1> Discover<br />
-                            Most Suitable<br />
+                            Most Suitable<br /> 
                             Property</h1>
                     </div>
                     <div className="flexColStart secondaryText hero-des">
